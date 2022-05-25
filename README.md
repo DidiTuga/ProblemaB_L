@@ -9,7 +9,7 @@ BDD que a represente. Após contruir a BDD, averiguar qual a solução lexicogr�
 
 * Segunda linha: uma fórmula f de lógica proposicional.
 
-###Output
+### Output
 
 * Primeira linha: string com a valoração lexicograficamente mais baixa que torna a fórmula f verdadeira, ou a string NONE caso não exista nenhuma valoração que torne f verdadeira.
 
@@ -18,3 +18,14 @@ BDD que a represente. Após contruir a BDD, averiguar qual a solução lexicogr�
 * Terceira linha: inteiro que represente o número de folhas da BDD resultante.
 
 Para formar as fórmulas, deverá associar a cada variável xi de f um inteiro, começando com x1 → 0 até x16 → 15.
+
+*Input exemplo*
+
+3
+((0 & 1) -> 2)
+
+*Output exemplo*
+
+000
+7
+4
