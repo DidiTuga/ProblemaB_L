@@ -29,3 +29,5 @@ Para formar as fórmulas, deverá associar a cada variável xi de f um inteiro, 
 000
 7
 4
+
+[Link para mais informação](http://www.di.ubi.pt/~desousa/LC/pbB.pdf)
