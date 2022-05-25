@@ -19,12 +19,12 @@ BDD que a represente. Após contruir a BDD, averiguar qual a solução lexicogr�
 
 Para formar as fórmulas, deverá associar a cada variável xi de f um inteiro, começando com x1 → 0 até x16 → 15.
 
-*Input exemplo*
+**Input exemplo**
 
 3
 ((0 & 1) -> 2)
 
-*Output exemplo*
+**Output exemplo**
 
 000
 7
